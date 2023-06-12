@@ -1,0 +1,12 @@
+total 40
+drwxrwxr-x 2 muchesia muchesia 4096 Jun 12 23:22 .
+drwxrwxr-x 6 muchesia muchesia 4096 Jun 12 22:17 ..
+-rwxrw-r-- 1 muchesia muchesia   32 Jun 12 22:19 0-hello_world
+-rwxrw-r-- 1 muchesia muchesia   28 Jun 12 22:24 1-confused_smiley
+-rwxrw-r-- 1 muchesia muchesia   28 Jun 12 22:28 2-hellofile
+-rwxrw-r-- 1 muchesia muchesia   39 Jun 12 22:36 3-twofiles
+-rwxrw-r-- 1 muchesia muchesia   29 Jun 12 22:38 4-lastlines
+-rwxrw-r-- 1 muchesia muchesia   29 Jun 12 22:40 5-firstlines
+-rwxrw-r-- 1 muchesia muchesia   36 Jun 12 23:22 8-cwd_state
+-rw-rw-r-- 1 muchesia muchesia    0 Jun 12 23:22 ls_cwd_content
+-rw-rw-r-- 1 muchesia muchesia 1847 Jun 12 22:17 README.md
